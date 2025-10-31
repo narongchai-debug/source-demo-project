@@ -1,0 +1,1 @@
+Automated web testing project using Selenium + Pytest + POM 

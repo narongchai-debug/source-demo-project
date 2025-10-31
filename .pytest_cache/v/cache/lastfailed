@@ -1,0 +1,19 @@
+{
+  "tests/test_add_cart.py::test_add_to_cart": true,
+  "tests/test_checkout.py::test_checkout_cart": true,
+  "tests/test_logout.py::test_logout": true,
+  "tests/test_remove_cart.py::test_remove_cart": true,
+  "tests/test_login.py::test_login[problem_user-secret_sauce]": true,
+  "tests/test_checkout.py::test_checkout_cart[logged_in_driver0]": true,
+  "tests/test_checkout.py::test_checkout_cart[logged_in_driver1]": true,
+  "tests/test_checkout.py::test_checkout_cart[logged_in_driver2]": true,
+  "tests/test_logout.py::test_logout[logged_in_driver0]": true,
+  "tests/test_logout.py::test_logout[logged_in_driver1]": true,
+  "tests/test_logout.py::test_logout[logged_in_driver2]": true,
+  "tests/test_remove_cart.py::test_remove_cart[logged_in_driver0]": true,
+  "tests/test_remove_cart.py::test_remove_cart[logged_in_driver1]": true,
+  "tests/test_remove_cart.py::test_remove_cart[logged_in_driver2]": true,
+  "tests/test_add_cart.py::test_add_to_cart[logged_in_driver2]": true,
+  "tests/test_add_cart.py::test_add_to_cart[logged_in_driver1]": true,
+  "tests/test_remove_flow.py::test_remove_flow": true
+}
