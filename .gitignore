@@ -25,55 +25,10 @@ env/
 # IDE / Editor Config
 # ===============================
 .vscode/
-.idea/
-*.swp
-*.swo
-
-# ===============================
-# OS Files
-# ===============================
-.DS_Store
-Thumbs.db
-
-# ===============================
-# Test Reports & Logs
-# ===============================
-reports/
-report/
-test-reports/
-allure-results/
-allure-report/
-logs/
-log/
-*.log
 
 # ===============================
 # Pytest & Cache
 # ===============================
 .cache/
 .pytest_cache/
-htmlcov/
-coverage.xml
-*.cover
-*.coverage
-*.cov
 
-# ===============================
-# CI/CD Artifacts
-# ===============================
-dist/
-build/
-*.spec
-output/
-temp/
-tmp/
-
-# ===============================
-# Environment & Config Files (optional)
-# ===============================
-# ถ้ามีไฟล์ config ที่เก็บ secret หรือ credential ไว้
-config_local.yaml
-.env.local
-.env.test
-*.secret.json
-*.key
