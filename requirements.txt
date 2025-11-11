@@ -1,5 +1,2 @@
 pytest
 selenium
-pytest-html
-allure-pytest  
-allure-python-commons
